@@ -47,22 +47,24 @@ I'm a hands-on Mechanical Engineer passionate about building intelligent systems
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects | Engineering Portfolio
 
-### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/54707253113592d287b4314bd8313cf488eff9f3/ball-and-beam-pid)
-Real-time control system that balances a ball on a beam using PID control, ToF sensing, and live parameter tuning via joystick interface.
-- **Tech:** Arduino, VL53L0X, PID Control, OLED Display
-- **Features:** Real-time statistics, smart filtering, interactive tuning
+### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/54707253113592d287b4314bd8313cf488eff9f3/ball-and-beam-pid)  
+Balancing a ball on a beam in real-time using PID control and live joystick tuning.  
+**Tech:** Arduino, VL53L0X, PID Control, OLED Display | **Features:** Smart filtering, interactive tuning  
 
-### 📧 [Email Finder Scout](https://chrome.google.com/webstore)
-Chrome extension for discovering publicly listed email addresses with domain-level privacy controls.
-- **Tech:** JavaScript, HTML/CSS, Stripe API
-- **Status:** Published on Chrome Web Store
+### 📧 [Email Finder Scout](https://chrome.google.com/webstore)  
+Chrome extension for discovering publicly listed emails while respecting privacy.  
+**Tech:** JavaScript, HTML/CSS, Stripe API | **Status:** Published  
 
-### 🐾 Automatic Pet Feeder (Senior Design)
-Solar-powered smart feeder with RFID pet detection and IoT control.
-- **Tech:** Raspberry Pi, Python, SolidWorks, 3D Printing, Stepper Motors
-- **Features:** Pet-specific feeding, mobile app control
+### 🐾 Automatic Pet Feeder (Senior Design)  
+Solar-powered smart feeder with RFID detection and IoT control.  
+**Tech:** Raspberry Pi, Python, SolidWorks, 3D Printing, Stepper Motors | **Features:** Pet-specific feeding, mobile app control  
+
+---
+
+**📂 Explore All Projects in My Engineering Portfolio
+Detailed documentation, CAD files, code, and demo videos** [Engineering Portfolio](https://github.com/gustavotorr/Engineering-Portfolio) 🔥
 
 ---
 
