@@ -116,5 +116,5 @@ Concentration: Mechanical Engineering
 I'm always interested in collaborating on projects involving robotics, control systems, or machine learning. Whether you're working on autonomous systems, industrial automation, or innovative hardware projects, let's chat!
 
 - 📧 Email: tgustavo21@gmail.com
-- 💼 LinkedIn: [gustavo-torres111](https://www.linkedin.com/in/gustavo-torres111/)
+- 💼 LinkedIn: [Gustavo Torres](https://www.linkedin.com/in/gustavo-torres111/)
 - 📍 Location: Dallas, TX
