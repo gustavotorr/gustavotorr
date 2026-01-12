@@ -49,7 +49,7 @@ I'm a hands-on Mechanical Engineer passionate about building intelligent systems
 
 ## 🎯 Featured Projects
 
-### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/ball-beam-pid)
+### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/54707253113592d287b4314bd8313cf488eff9f3/ball-and-beam-pid)
 Real-time control system that balances a ball on a beam using PID control, ToF sensing, and live parameter tuning via joystick interface.
 - **Tech:** Arduino, VL53L0X, PID Control, OLED Display
 - **Features:** Real-time statistics, smart filtering, interactive tuning
