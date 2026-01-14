@@ -92,7 +92,7 @@ Solar-powered smart feeder with RFID detection and IoT control.
 
 ---
 
-##📂 Explore All Projects in My  [Engineering Portfolio](https://github.com/gustavotorr/Engineering-Portfolio)
+### 📂 Explore All Projects in My  [Engineering Portfolio](https://github.com/gustavotorr/Engineering-Portfolio)
 Detailed documentation, CAD files, code, and demo videos**
 
 ---
