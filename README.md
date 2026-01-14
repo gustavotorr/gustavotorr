@@ -61,21 +61,38 @@ I'm a hands-on Mechanical Engineer passionate about building intelligent systems
 
 ## 🎯 Featured Projects | Engineering Portfolio
 
+### 🦾 [Adaptive Sliding-Mode Control of a 4-DOF Robot Manipulator](https://github.com/gustavotorr/Engineering-Portfolio/tree/main/Adaptive-Sliding-Mode-4DOF-Manipulator)  
+Graduate-level nonlinear control system for a 4-DOF robotic arm performing multi-target pick-and-place under severe payload uncertainty and contact dynamics.  
+**Tech:** Mathematica, Euler–Lagrange Dynamics, Sliding-Mode Control, Inverse Kinematics | **Features:** Unknown payloads, time-varying dynamics, impact & wall-bounce physics  
+
+---
+
+### ⚽ [Mass-Dependent Bouncing Ball Physics Simulator](https://github.com/gustavotorr/Engineering-Portfolio/tree/main/Bouncing-Ball-Physics-Simulator)  
+High-fidelity impact physics engine showing how mass and friction alter real-world bounce trajectories using impulse-based collision mechanics.  
+**Tech:** Mathematica, Newtonian Mechanics, Coulomb Friction, Impulse Methods | **Features:** Sliding vs sticking, energy loss, multi-object simulation  
+
+---
+
 ### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/54707253113592d287b4314bd8313cf488eff9f3/ball-and-beam-pid)  
-Balancing a ball on a beam in real-time using PID control and live joystick tuning.  
+Real-time balancing of a ball on a beam using PID control with live joystick tuning and OLED feedback.  
 **Tech:** Arduino, VL53L0X, PID Control, OLED Display | **Features:** Smart filtering, interactive tuning  
+
+---
 
 ### 📧 [Email Finder Scout](https://chrome.google.com/webstore)  
 Chrome extension for discovering publicly listed emails while respecting privacy.  
 **Tech:** JavaScript, HTML/CSS, Stripe API | **Status:** Published  
 
+---
+
 ### 🐾 Automatic Pet Feeder (Senior Design)  
 Solar-powered smart feeder with RFID detection and IoT control.  
 **Tech:** Raspberry Pi, Python, SolidWorks, 3D Printing, Stepper Motors | **Features:** Pet-specific feeding, mobile app control  
 
+
 ---
 
-**📂 Explore All Projects in My  [Engineering Portfolio](https://github.com/gustavotorr/Engineering-Portfolio)
+##📂 Explore All Projects in My  [Engineering Portfolio](https://github.com/gustavotorr/Engineering-Portfolio)
 Detailed documentation, CAD files, code, and demo videos**
 
 ---
