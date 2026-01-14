@@ -7,12 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-torres111/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tavographs/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tgustavo21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/gustavotorr/Engineering-Portfolio)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 💫 About Me 
 
 🎓 **Master's at SMU** - Specializing in controls, robotics, and ML  
 🤖 **Physical AI Systems** - Integrating control theory with machine learning  
