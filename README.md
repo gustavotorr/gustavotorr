@@ -73,7 +73,7 @@ High-fidelity impact physics engine showing how mass and friction alter real-wor
 
 ---
 
-### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/54707253113592d287b4314bd8313cf488eff9f3/ball-and-beam-pid)  
+### 🎮 [Ball-and-Beam PID Controller](https://github.com/gustavotorr/Engineering-Portfolio/tree/main/ball-and-beam-pid)  
 Real-time balancing of a ball on a beam using PID control with live joystick tuning and OLED feedback.  
 **Tech:** Arduino, VL53L0X, PID Control, OLED Display | **Features:** Smart filtering, interactive tuning  
 
