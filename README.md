@@ -52,6 +52,9 @@ Currently digging into deep reinforcement learning for robotics, computer vision
 
 ## Experience
 
+**Robotics Simulation Intern — Apptronik** (Summer 2026)
+MuJoCo simulation for humanoid mobile manipulation: built an end-to-end simulation toolkit for a battery-swap workflow (IK reaching, dexterous grasping, and recordable/replayable waypoint sequences), plus a validated actuator model and single-joint bench harness used for joint-torque diagnostics and actuator sizing studies.
+
 **Manufacturing Engineer — Brim Laundry Machinery**
 PLC programming (Omron Sysmac Studio) for industrial automation; PID temperature control optimization (25% faster cycles, 15% tighter regulation); thermal and fluid analysis for regulatory compliance.
 
