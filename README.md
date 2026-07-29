@@ -64,6 +64,7 @@ RF-controlled automation systems and custom mechanical assemblies for large-scal
 ## Education
 
 **M.S. Mechanical Engineering** — Southern Methodist University, 2025–present
+
 **B.S. Engineering Physics** (mechanical concentration) — Stephen F. Austin State University, 2019–2023
 
 ## GitHub stats
